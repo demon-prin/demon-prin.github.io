@@ -2,45 +2,44 @@ url: https://demon-prin.github.io
 baseurl: /
 
 # Site settings
-title: DEMON PRIN Project
+title: DEMON PRIN22
 email: atzori@unica.it
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+description: "DEMON is a PRIN22 research project that aims to characterize and detect the manipulation of online information combining both natural language processing (NLP) and social network analysis techniques."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Maurizio Atzori
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: University of Cagliari
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
 
-- name: Larry Parker
+- name: Stefano Ceri
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position: Politecnico di Milano
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
 
-- name: Diana Petersen
+- name: Francesco Pierri
   pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: Politecnico di Milano
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -57,8 +56,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: DMI, Via Ospedale 72, 09124 Cagliari (Italy)
+  - line: DEIB, Via Ponzio 34/5, 20133 Milano (Italy)
 
 # Build settings
 markdown: kramdown
