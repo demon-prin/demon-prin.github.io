@@ -5,13 +5,13 @@ Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/templ
 
 # How to use
 
-###Portfolio 
+###Portfolio (now Publications)
 
 Portfolio projects are in '/_posts'
 
 Images are in '/img/portfolio'
 
-###About
+###About (now Timeline)
 
 Images are in '/img/about/'
 
