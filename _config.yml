@@ -8,7 +8,7 @@ description: "DEMON is a PRIN22 research project that aims to characterize and d
 
 # Team names, titles and social links
 people:
-- name: Maurizio Atzori
+- name: Prof. Maurizio Atzori
   pic: 1
   position: University of Cagliari
 #  social:
@@ -19,7 +19,7 @@ people:
 #    - title: stack-overflow
 #      url: #
 
-- name: Stefano Ceri
+- name: Prof. Stefano Ceri
   pic: 2
   position: Politecnico di Milano
 #  social:
@@ -30,7 +30,7 @@ people:
 #    - title: linkedin
 #      url: #
 
-- name: Francesco Pierri
+- name: Dr. Francesco Pierri
   pic: 3
   position: Politecnico di Milano
 #  social:
@@ -40,6 +40,28 @@ people:
 #      url: #
 #    - title: google-plus
 #      url: #
+
+- name: Prof. Marco Brambilla
+  pic: 2
+  position: Politecnico di Milano
+
+- name: Prof. Alessandro Campi
+  pic: 2
+  position: Politecnico di Milano
+
+- name: Prof. Cecilia Di Ruberto
+  pic: 4
+  position: University of Cagliari
+  
+- name: Dr. Manuela Sanguinetti
+  pic: 4
+  position: University of Cagliari
+
+- name: Prof. Andrea Loddo
+  pic: 4
+  position: University of Cagliari
+
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
