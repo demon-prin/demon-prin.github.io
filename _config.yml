@@ -46,19 +46,23 @@ people:
   position: Politecnico di Milano
 
 - name: Prof. Alessandro Campi
-  pic: 6
+  pic: 5b
   position: Politecnico di Milano
 
 - name: Prof. Cecilia Di Ruberto
-  pic: 4
+  pic: 6
   position: University of Cagliari
   
 - name: Dr. Manuela Sanguinetti
-  pic: 4
+  pic: 7
   position: University of Cagliari
 
-- name: Prof. Andrea Loddo
-  pic: 4
+- name: Dr. Andrea Loddo
+  pic: 8
+  position: University of Cagliari
+  
+- name: Luca Zedda
+  pic: 9
   position: University of Cagliari
 
 
