@@ -30,6 +30,10 @@ people:
 #    - title: linkedin
 #      url: #
 
+- name: Prof. Emanuele Della Valle
+  pic: 2b
+  position: Politecnico di Milano
+
 - name: Dr. Francesco Pierri
   pic: 3
   position: Politecnico di Milano
@@ -79,6 +83,10 @@ people:
   
 - name: Marco Usai
   pic: 13
+  position: University of Cagliari
+
+- name: Matteo Fenu
+  pic: 14
   position: University of Cagliari
 
 
